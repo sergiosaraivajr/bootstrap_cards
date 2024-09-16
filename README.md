@@ -27,3 +27,7 @@ compreendido a estrutura responsiva do Bootstrap.
 criar abas interativas com Bootstrap;
 personalizar o visual das abas;
 gerenciar o conteúdo das abas.
+
+compreender o conceito de toasts;
+configurar e personalizar toasts com Bootstrap;
+adicionar interatividade aos toasts.
