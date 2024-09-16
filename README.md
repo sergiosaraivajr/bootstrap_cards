@@ -24,3 +24,6 @@ Implementar modais com JavaScript.
 criação de  uma barra de navegação responsiva e personalizada;
 implemento de efeitos de rolagem suave e navegação ativa;
 compreendido a estrutura responsiva do Bootstrap.
+criar abas interativas com Bootstrap;
+personalizar o visual das abas;
+gerenciar o conteúdo das abas.
